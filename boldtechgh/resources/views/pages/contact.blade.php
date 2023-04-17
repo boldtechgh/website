@@ -3,7 +3,7 @@
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                 <h1 class="display-4 text-white animated zoomIn">Contact Us</h1>
-                <a href="" class="h5 text-white">Home</a>
+                <a href="/" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
                 <a href="" class="h5 text-white">Contact</a>
             </div>
@@ -49,7 +49,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Visit our office</h5>
-                            <h4 class="text-primary mb-0">BLK A 402, Kofi Annan Link, Kpalsi - Tamale</h4>
+                            <h4 class="text-primary mb-0">BLK A 402, Kofi Annan Link</h4>
                         </div>
                     </div>
                 </div>
@@ -80,10 +80,11 @@
                     </form>
                 </div>
                 <div class="col-lg-6 wow slideInUp" data-wow-delay="0.6s">
-                    <iframe class="position-relative rounded w-100 h-100"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
-                        frameborder="0" style="min-height: 350px; border:0;" allowfullscreen="" aria-hidden="false"
-                        tabindex="0"></iframe>
+                    <div style="overflow:hidden;resize:none;max-width:100%;width:100%;height:100%;">
+                        <iframe style="height:100%;width:100%;border:0;" frameborder="0"
+                            src="https://www.google.com/maps/embed/v1/place?q=BoldTech+ICT+Services,+Technical+University,+Tamale,+Ghana&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
+                        </iframe>
+                    </div>
                 </div>
             </div>
         </div>
